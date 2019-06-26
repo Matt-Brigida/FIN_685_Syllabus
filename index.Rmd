@@ -113,53 +113,28 @@ Students do not need to access the course simultaneously, and therefore have a m
 ## Topics Covered
 
 -  Capital Structure
+-  The Market for Corporate Control
+   + IPOs/SEOs
+   + Mergers and Acquisitions
 -  Dividend Policy
 -  Market Structure
 -  Contingent Claim Analysis in Complete Markets
+-  Artifical Intelligence and Machine Learning in Accounting and Finance
+   + Uses by big 4 accounting firms
+   + Loan Origination
+   + Mergers and Acquisitions/Corporate Strategy
+   + Valuation
 
 ##  Possible Paper Topic Areas
 
 -  Capital Structure and Lending Policy at US Banks [FDIC Data Set]
--  
+-  Electricity Markets [Real Option Valuation of Power Plants, Renewable Power Integration]
+-  High-Frequency Trading
+-  Energy Markets
+
+## Research Paper Discussion
 
 
-## Lectures
-
-In addition to the lectures I posted to YouTube, I will also record lectures via BB Collaborate.  I'll try and let you know when I am recording each lecture, so you can log in an interact.  However all that is required is that you watch the lecture at some point---meaning you are free to just watch the recording.
-
-## Exams
-
-There will be two exams (a midterm and a final). The exams will mainly be comprised of short-answer questions, and/or computations.  All questions will be worth equal points.  Exam questions may be derived from the assigned end-of-chapter questions, so you can prepare for the exam by completing all of the end-of-chapter questions.  Specifically, the discussion (*Concept Questions*) are similar to the short answer questions, and the *Optimal Homework* is similar to the computations.
-
-<!---While you are allowed to use your text during the exam, you should not rely on it.  Students perform considerably better if they know the material beforehand, and only need to consult the text for a few questions.
-
-For each exam you will need:
-
-#.  Access to software which can display pdf files (I will send the exam to you as a pdf).
-
-#.  A wordprocessor which can write pdf files (you will send your short answer questions back to me as a pdf).
-
-#. Spreadsheet software to answer the computation questions (you can send me the spreadsheet as .xls or .xlsx).-->
-
-Normally no make-up exams will be given.  Failure to hand in an exam will result in a grade of zero.  Make-up exams will only be allowed for *extraordinary* and *verifiable* reasons.
-
-**Mid-term Exam**
-
-I will post the exam as a pdf file to Blackboard by the Wednesday before the exam due date. You will have until the exam due date/time to submit the mid-term exam.  You will submit your exam using the Dropbox in Blackboard.
-
-**Final Exam**
-
-The final exam is concentrated on the topics learned after the mid-term exam, so the exam is not comprehensive *per se*.  However, the concepts learned after the mid-term rely heavily those tested in the mid-term, so a poor understanding of the material on the mid-term will lead to a poor performance on the final exam.
-
-Exactly like the mid-term, I will post the exam as a pdf file to Blackboard by the Wednesday before the exam due date. You should upload your completed exam to the Blackboard Dropbox by the due date/time.
-
-**Exam Rules**
-
-You are not to discuss the exam with other students.  Both receiving help from another student, or helping another student on an exam, are considered serious academic irregularities the result of which can range from receiving an `F` in the course to dismissal from the university.
-
-**You must complete and submit your computation questions in a spreadsheet.  If you submit your computation answers in Word, I will reduce your score.  You should also not treat your spreadsheet as a Word or text file.  That is answers should be written as formulas, and not as text strings.**
-
-**If your spreadsheet is disorganized you will lose points. The computations and answers should be easily found and understood by anyone opening your spreadsheet. See the 'Note on Spreadsheet Design' at the end of this syllabus.**
 
 ## Brokerage Accounts
 

@@ -54,11 +54,12 @@ opts_knit$set(width=75)
 
 ## Course Structure and Interaction
 
--  Text Readings and Exercises
+-  Text Readings and Exercises [See This Section]()
+
+-  Via BlackBoard Collaborate.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate.
 
 -  Short videos many of which are/will be posted at the following links: [Investments](https://www.youtube.com/playlist?list=PLRK1VeglPb4NO-D0HOn0QE9lQlBNR1vHK) and [Portfolio Theory](https://www.youtube.com/playlist?list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6).
 
--  Via BlackBoard Collaborate.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate.
 
 ## Academic Honesty Policy
 
@@ -85,19 +86,36 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
 
 ## Topics Covered
 
+<!-- some good papers here: https://www2.bc.edu/thomas-chemmanur/page/mf891_syllabus99.html -->
+
 -  Capital Structure
--  The Market for Corporate Control
-   + IPOs/SEOs
-   + Mergers and Acquisitions
+    + In Perfect Capital Markets
+        - Modigliani, F. and M. Miller "The Cost of Capital, Corporation Finance and the Theory of Investment" American Economic Review, June 1958, 261-297.
+    + With Taxes
+	    - Miller, M., "Debt and Taxes," Journal of Finance, June 1977, 32, 261-276. 
+	+ With Agency Costs
+	    - Jensen, M. and W. Meckling, "Theory of the Firm: Managerial Behavior, Agency Costs, and Ownership Structure," Journal of Financial Economics, October 1976, 3, 305-360. 
+- Adverse Selection
+   + Ackerlof, G. A., "The market for lemons: Quality Uncertainty and the Market Mechanism," The Rand Journal of Economics. 
+- Adverse Selection and Capital Structure
+   + Myers, S. and N. Majluf, "Corporate Financing and Investment Decisions When Firms Have Information that Investors Do Not Have," Journal of Financial Economics, June
+1984,187-221. 
 -  Dividend Policy
+    + Miller, M. and K. Rock, "Dividend Policy Under Asymmetric Information," Journal of Finance, September 1985, 40, 1031-1051. 
+-  The Market for Corporate Control
+    + IPOs/SEOs
+	    - Rock, K., 1986, Why new issues are underpriced, Journal of Financial Economics 15, 187-212. 
+    + Mergers and Acquisitions
+- Security Design
+    + *Harris, Milton and Artur Raviv (1989), "The Design of Securities," Journal of Financial Economics, 24, 255-287. 
 -  Market Structure
 -  Banking post 2008
 -  Contingent Claim Analysis in Complete Markets
 -  Artifical Intelligence and Machine Learning in Accounting and Finance
-   + Uses by big 4 accounting firms
-   + Loan Origination
-   + Mergers and Acquisitions/Corporate Strategy
-   + Valuation
+    + Uses by big 4 accounting firms
+    + Loan Origination
+    + Mergers and Acquisitions/Corporate Strategy
+    + Valuation
 
 ##  Possible Paper Topic Areas
 

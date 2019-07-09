@@ -90,16 +90,15 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
 
 -  Capital Structure
     + In Perfect Capital Markets
-        - Modigliani, F. and M. Miller "The Cost of Capital, Corporation Finance and the Theory of Investment" American Economic Review, June 1958, 261-297.
+        - [Modigliani, F. and M. Miller "The Cost of Capital, Corporation Finance and the Theory of Investment" American Economic Review, June 1958, 261-297.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=Modigliani%2C+F.+and+M.+Miller+%E2%80%9CThe+Cost+of+Capital%2C+Corporation+Finance+and+the+Theory+of+Investment%E2%80%9D+American+Economic+Review%2C+June+1958%2C+261-297.&btnG=)
     + With Taxes
-	    - Miller, M., "Debt and Taxes," Journal of Finance, June 1977, 32, 261-276. 
+	    - [Miller, M., "Debt and Taxes," Journal of Finance, June 1977, 32, 261-276.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1977.tb03267.x) 
 	+ With Agency Costs
-	    - Jensen, M. and W. Meckling, "Theory of the Firm: Managerial Behavior, Agency Costs, and Ownership Structure," Journal of Financial Economics, October 1976, 3, 305-360. 
+	    - [Jensen, M. and W. Meckling, "Theory of the Firm: Managerial Behavior, Agency Costs, and Ownership Structure," Journal of Financial Economics, October 1976, 3, 305-360.](https://www2.bc.edu/thomas-chemmanur/phdfincorp/MF891%20papers/Jensen%20and%20Meckling%201976.pdf)
 - Adverse Selection
-   + Ackerlof, G. A., "The market for lemons: Quality Uncertainty and the Market Mechanism," The Rand Journal of Economics. 
+   + [Ackerlof, G. A., "The market for lemons: Quality Uncertainty and the Market Mechanism," The Rand Journal of Economics.](https://pages.ucsd.edu/~aronatas/project/academic/Akerlof%20on%20Lemons.pdf)
 - Adverse Selection and Capital Structure
-   + Myers, S. and N. Majluf, "Corporate Financing and Investment Decisions When Firms Have Information that Investors Do Not Have," Journal of Financial Economics, June
-1984,187-221. 
+   + [Myers, S. and N. Majluf, "Corporate Financing and Investment Decisions When Firms Have Information that Investors Do Not Have," Journal of Financial Economics, June 1984,187-221.](https://www.nber.org/papers/w1396.pdf)
 -  Dividend Policy
     + Miller, M. and K. Rock, "Dividend Policy Under Asymmetric Information," Journal of Finance, September 1985, 40, 1031-1051. 
 -  The Market for Corporate Control

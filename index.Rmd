@@ -100,21 +100,34 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
 - Adverse Selection and Capital Structure
    + [Myers, S. and N. Majluf, "Corporate Financing and Investment Decisions When Firms Have Information that Investors Do Not Have," Journal of Financial Economics, June 1984,187-221.](https://www.nber.org/papers/w1396.pdf)
 -  Dividend Policy
-    + Miller, M. and K. Rock, "Dividend Policy Under Asymmetric Information," Journal of Finance, September 1985, 40, 1031-1051. 
+    + [Black, F., "The Dividend Puzzle", The Journal of Portfolio Management, (Dec 1996): 8-12.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=fischer+black+dividend+puzzle&btnG=)
+    <!-- + Miller, M. and K. Rock, "Dividend Policy Under Asymmetric Information," Journal of Finance, September 1985, 40, 1031-1051.  -->
 -  The Market for Corporate Control
     + IPOs/SEOs
-	    - Rock, K., 1986, Why new issues are underpriced, Journal of Financial Economics 15, 187-212. 
+	    - [Rock, K., 1986, Why new issues are underpriced, Journal of Financial Economics 15, 187-212.]()
     + Mergers and Acquisitions
 - Security Design
-    + *Harris, Milton and Artur Raviv (1989), "The Design of Securities," Journal of Financial Economics, 24, 255-287. 
+    + [Harris, Milton and Artur Raviv (1989), "The Design of Securities," Journal of Financial Economics, 24, 255-287.]()
 -  Market Structure
+    + [High frequency market microstructure](http://dx.doi.org/10.1016/j.jfineco.2015.01.003)
 -  Banking post 2008
 -  Contingent Claim Analysis in Complete Markets
 -  Artifical Intelligence and Machine Learning in Accounting and Finance
+<!-- use mckinsey docs -->
     + Uses by big 4 accounting firms
     + Loan Origination
     + Mergers and Acquisitions/Corporate Strategy
     + Valuation
+	
+## Research Paper Discussion
+
+How to summarize a paper:
+
+#. What is the purpose of the paper?  What is the unanswered question in the literature?
+#. What analysis method did the author use? Did they use an empirical (statistics), theoritical, or survey approach?
+#. What was thier conclusion?
+#. What are the limitations to their conclusion? What sort of assumption did they have to make? 
+
 
 ##  Possible Paper Topic Areas
 
@@ -123,20 +136,6 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
 -  High-Frequency Trading
 -  Energy Markets
 
-## Research Paper Discussion
-
-
-
-## Brokerage Accounts
-
-We will use paper trading accounts provided by Interactive Brokers. These
-trading accounts are the exact same as the actual brokerage accounts---except the money isn’t real.
-You will have access to (and real data from) stock, bond, commodity, and foreign exchange markets.
-While the data alone is worth a fair amount of money, Interactive Brokers is offering the accounts to us
-for free. Keep this in mind while following the directions to set up your account customer service will
-be nonexistent. **If you lose your password, or forget your username, etc, you will not have an
-account for the semester.** In this case you will have to trade in another student’s account, or mine.
-Please pay attention while setting up your account, and write everything down.
 
 ## Projects
 
@@ -197,13 +196,10 @@ A particular period's discussion will conclude Sunday at 9pm.
 
 <!--   This assignment will help you learn our Corporate Finance material by writing concise answers to finance questions.  In addition, your submitted Q/A will be used to train a finance Artificial Intelligence.  I will feed the Q/A into a deep neural network to train a chatbot that can answer finance questions---think Siri for finance.    -->
 
-<!-- I have created a file for Q/A for this course https://github.com/finance-AI/data/blob/master/studentQA/studentQA_570_summer_2017.txt.  Submit your Q/A there.  Adding to the file is easy---[see this video for a short tutorial](https://www.youtube.com/watch?v=iVC9UKkaiko), and [This is an example of a link to a commit.](https://github.com/FinancialMarkets/5MinuteFinance/commit/8f12f63b546a80fdb04e787514d967f1a1c0725f) -->
+p<!-- I have created a file for Q/A for this course https://github.com/finance-AI/data/blob/master/studentQA/studentQA_570_summer_2017.txt.  Submit your Q/A there.  Adding to the file is easy---[see this video for a short tutorial](https://www.youtube.com/watch?v=iVC9UKkaiko), and [This is an example of a link to a commit.](https://github.com/FinancialMarkets/5MinuteFinance/commit/8f12f63b546a80fdb04e787514d967f1a1c0725f) -->
 
 <!-- If your GitHub username is similar to your real name, then you don't have to tell me you have submitted the Q/A (I'll see it).  If your username is different, then send me an email from your clarion email address with the Subject "FIN 570 Q/A" letting me know your real name and GitHub username.  Note, GitHub shows how many lines you have added, so there is no need to number your questions.  Also, don't label the questions and answers.  -->
 
-## Trading/Other Assignments
-
-I'll assign several homeworks throughout the semester that involve either trading in your brokerage accounts, or downloading data in R and performing some calculation/analyses. If I give pop quizzes, these grades will be included here.
 
 ## Course Communication
 
@@ -218,11 +214,8 @@ All communication will be through Blackboard and email. If you have question you
 tabl <- "
 | Item | Points |
 | ---- | ------ |
-| Midterm Exam |  15 |
-| Final Exam |  15 |
-| Participation (Blackboard Discussion) |    25 |
-| Required Projects | 25  |
-| Trading (or Potential Project)/Other Assignments | 20 |
+| Paper Summaries | 60 |
+| Research Paper |  40 |
 | Total Points | 100 |
 "
 cat(tabl)
@@ -244,70 +237,69 @@ cat(tabl)
 
 ## Tentative Outline
 
-<!-- Spring -->
-<!-- - 1/15: Chapter 1 -->
-<!-- - 1/22:  Chapter 2 \& 3 -->
-<!-- - 1/29: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project** -->
-<!-- - 2/5: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1). -->
-<!-- - 2/12: Chapter 6 -->
-<!-- - 2/19: Chapter 7  -->
-<!--   + **Recommended <font color="red">Due Date</font> for the Market Depth Project** -->
-<!--   + **Start MV Optimal Portfolio Project** [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12) -->
-<!-- - 2/26: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) -->
-<!-- - *Midterm is through Securitization.  Final exam will cover from here onward.* -->
-<!-- - 3/12: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required** -->
-<!-- - 3/19: Chapter 20 -->
-<!-- - 3/26: Chapter 21  -->
-<!--   + **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project** -->
-<!--   + **Start Option Pricing (Black-Scholes) Project** -->
-<!-- - 4/1: Chapter 22 -->
-<!-- - 4/8: Chapter 23 -->
-<!-- - 4/15: Projects/Trade -->
-<!-- - 4/22: Projects/Trade  -->
-<!--   + **<font color="red">All assignments/exams/projects due by the end of the week</font>.** -->
-<!-- - 5/6: Finals Week -->
-
-<!-- Spring -->
-- 5/20: Chapters 1 and 2
-- 5/27: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project**
-- 6/3: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1).
-- 6/10: Chapters 6 and 7
+<!-- Fall -->
+- 1/15: Chapter 1
+- 1/22:  Chapter 2 \& 3
+- 1/29: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project**
+- 2/5: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1).
+- 2/12: Chapter 6
+- 2/19: Chapter 7
   + **Recommended <font color="red">Due Date</font> for the Market Depth Project**
   + **Start MV Optimal Portfolio Project** [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12)
-- 6/17: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
-  + *Midterm is through Securitization.  Final exam will cover from here onward.*
-- 6/24: Chapters 20 and 21
+- 2/26: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
+- *Midterm is through Securitization.  Final exam will cover from here onward.*
+- 3/12: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required**
+- 3/19: Chapter 20
+- 3/26: Chapter 21
   + **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project**
   + **Start Option Pricing (Black-Scholes) Project**
-- 7/1: Chapters 22 and 23
-- 7/8: Projects/Trade
+- 4/1: Chapter 22
+- 4/8: Chapter 23
+- 4/15: Projects/Trade
+- 4/22: Projects/Trade
   + **<font color="red">All assignments/exams/projects due by the end of the week</font>.**
+- 5/6: Finals Week
+
+<!-- Spring -->
+<!-- - 5/20: Chapters 1 and 2 -->
+<!-- - 5/27: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project** -->
+<!-- - 6/3: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1). -->
+<!-- - 6/10: Chapters 6 and 7 -->
+<!--   + **Recommended <font color="red">Due Date</font> for the Market Depth Project** -->
+<!--   + **Start MV Optimal Portfolio Project** [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12) -->
+<!-- - 6/17: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) -->
+<!--   + *Midterm is through Securitization.  Final exam will cover from here onward.* -->
+<!-- - 6/24: Chapters 20 and 21 -->
+<!--   + **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project** -->
+<!--   + **Start Option Pricing (Black-Scholes) Project** -->
+<!-- - 7/1: Chapters 22 and 23 -->
+<!-- - 7/8: Projects/Trade -->
+<!--   + **<font color="red">All assignments/exams/projects due by the end of the week</font>.** -->
 
 
-> Based on student input, we may add topics in portfolio theory such as those found in chapters 5 through 10, and chapter 24.
+<!-- > Based on student input, we may add topics in portfolio theory such as those found in chapters 5 through 10, and chapter 24. -->
 
 ## General Notes
 
 - All times referred to in this course are Eastern Standard---unless otherwise indicated.
-- There will be no make up exams or extra points assignments.
-- Cheating will result in prosecution to the fullest extent possible under university rules.
+- There will be no make up or extra points assignments.
+- Plaigarism will result in prosecution to the fullest extent possible under university rules.
 - You are responsible for material covered in the online discussion, as well as text material.
 -  **Internet Access:** This course requires that you have regular access to the internet to submit work.  You should not take this course if you plan on being in an area with insufficient internet access. "My internet was down for a week" is not an acceptable reason to hand in late work.
--  **Adding or Dropping the Course:** To add or drop the course the student should consult the university guidelines and withdrawal dates. The course instructor is not involved in a student's adding or withdrawing from the course.
-- **Software:** You will need word processing and spreadsheet software to take
+-  **Adding or Dropping the Course:** To add or drop the course the student should consult the university guidelines and withdrawal dates (as well as thier advisor). The course instructor is not involved in a student's adding or withdrawing from the course.
+- **Software:** You may use word processing and spreadsheet software in
 this course. Common examples of such software are Microsoft Word and
 Excel. However, there is no need to buy this software if you don't already
 have it. There are many free (open-source) alternatives which are just as
 good (and which allow you to save/read files as .doc(x), .pdf, and .xls(x)).
-Some widely used free office suites are LibreOffice (http://www.libreoffice.org)
-and OpenOffice (http://www.openoffice.org). Feel free to download and use
-these. *In this course all word processed submissions should be in .pdf, and
-all spreadsheets should be submitted as .xlsx.*
+For example I use LibreOffice (http://www.libreoffice.org). 
 
 
 ## BRTI Tick Data {#brti}
 
 Below are millisecond data for the Bitcoin Real-Time Index on Jan 3, 2018.  The data are pulled via the IB API.  With data of this type, you can dicover interesting features of market data---for example, notice the "last trade" is often outside of the bid/offer.  This is particularly important to understand when trading illiquid contracts, such as some options.  You can left-click your mouse, and drag, to zoom in on subintervals.
+
+Using such data is not necesary in this course, though if you would like to use similar data in your analysis let me know.  I can either pull the data you want for you, or I can request an account for you where you can pull the data.
 
 ```{r error=FALSE, warning=FALSE, eval = TRUE}
 library(dygraphs)

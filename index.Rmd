@@ -125,7 +125,7 @@ How to summarize a paper:
 
 #. What is the purpose of the paper?  What is the unanswered question in the literature?
 #. What analysis method did the author use? Did they use an empirical (statistics), theoritical, or survey approach?
-#. What was thier conclusion?
+#. What was their conclusion?
 #. What are the limitations to their conclusion? What sort of assumption did they have to make? 
 
 
@@ -135,8 +135,9 @@ How to summarize a paper:
 -  Electricity Markets [Real Option Valuation of Power Plants, Renewable Power Integration]
 -  High-Frequency Trading
 -  Energy Markets
+-  A case study outlining the effect of AI/ML in Accounting and Finance. 
 
-
+<!---
 ## Projects
 
 Throughout the semester we'll work on a series of projects that will help us understand both financial theories, and also, *importantly*, practical considerations we are faced with when applying these theories in the real-world. Some notes on the projects:
@@ -167,7 +168,7 @@ If you have questions on a project you are encouraged to post your spreadsheet/c
   + [Trading Assignment 1](https://github.com/Matt-Brigida/fin-332-trading-assignments/blob/master/TA_1.md)
   + [Trading Assignment 2](https://github.com/Matt-Brigida/fin-332-trading-assignments/blob/master/TA_2.md)
   + [Trading Assignment 3](https://github.com/Matt-Brigida/fin-332-trading-assignments/blob/master/TA_4.md)  Ignore that it says assignment 4 on the web page.
-
+-->
 
 <!-- There are two ways to satisfy the 40 participation points.  You can: -->
 ## Participation

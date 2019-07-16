@@ -2,3 +2,5 @@ base
 knitr
 rmdformats
 dygraphs
+RevoUtilsMath
+RevoUtils

@@ -19,7 +19,7 @@ library(rmdformats)
 ## Global options
 options(max.print="75")
 opts_chunk$set(echo=FALSE,
-	             cache=TRUE,
+               cache=TRUE,
                prompt=FALSE,
                tidy=TRUE,
                comment=NA,
@@ -325,12 +325,32 @@ You should construct your spreadsheet as if you were an analyst at a company, an
 
 ## Banking Analyses
 
-## High Frequency Trading
+I have created this [panel data set]() which I [used in this paper]().  
+
+## High Frequency Trading (HFT)
+
+#. Survey the effect of Regulation NMS on market structure and the rise of HFT.
+
+#. Statistical analyses to identify, for example, the impact of HFT on market efficiency.
 
 ## Cryptocurrency Markets
+
+There are a couple very interesting aspects to cryptocurrency markets
+
+#.  Relationships between the behavior of various currencies.  This is an exercise in time series analysis, and to be done correctly you should use the idea of cointegration.
+
+#.  An analysis of [Libra]()---how does it differ from other currencies and how is it similar? 
+
+#.  A survey of the various trading venues for cryptocurrencies and their derivatives.
+
+#.  A survey of various cryptocurrency market APIs.
 
 ## Energy Markets
 
 ## Electricity Markets
+
+#. A survey of the various electricity market structures around the US.
+
+#. How can we incentivize overcapacity within a deregulated utility structure?  Survey the problem and possible solutions, hopefully adding ideas of your own.
 
 ## AI/ML in Finance and Accounting

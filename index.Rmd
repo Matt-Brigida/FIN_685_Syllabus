@@ -325,32 +325,34 @@ You should construct your spreadsheet as if you were an analyst at a company, an
 
 ## Banking Analyses
 
-I have created this [panel data set]() which I [used in this paper]().  
+I have created this [panel data set]() which I [used in this paper]().  You can use this data set to estimate the relationship between a bank's capital structure and aspects of its loan portfolio or performance.
+
+-  Do higher levels of equity in a banks capital structure lead to lower profitability?  This analysis would be best done in R or Python instead of Excel.
 
 ## High Frequency Trading (HFT)
 
-#. Survey the effect of Regulation NMS on market structure and the rise of HFT.
+- Survey the effect of Regulation NMS on market structure and the rise of HFT.
 
-#. Statistical analyses to identify, for example, the impact of HFT on market efficiency.
+- Statistical analyses to identify, for example, the impact of HFT on market efficiency.
 
 ## Cryptocurrency Markets
 
-There are a couple very interesting aspects to cryptocurrency markets
+There are a couple very interesting aspects to cryptocurrencies and cryptocurrency markets.  
 
-#.  Relationships between the behavior of various currencies.  This is an exercise in time series analysis, and to be done correctly you should use the idea of cointegration.
+-  Relationships between the behavior of various currencies.  This is an exercise in time series analysis, and to be done correctly you should use the idea of cointegration.
 
-#.  An analysis of [Libra]()---how does it differ from other currencies and how is it similar? 
+-  An analysis of [Libra]()---how does it differ from other currencies and how is it similar? 
 
-#.  A survey of the various trading venues for cryptocurrencies and their derivatives.
+-  A survey of the various trading venues for cryptocurrencies and their derivatives.
 
-#.  A survey of various cryptocurrency market APIs.
-
-## Energy Markets
+-  A survey of various cryptocurrency market APIs.
 
 ## Electricity Markets
 
-#. A survey of the various electricity market structures around the US.
+- A survey of the various electricity market structures around the US.
 
-#. How can we incentivize overcapacity within a deregulated utility structure?  Survey the problem and possible solutions, hopefully adding ideas of your own.
+- How can we incentivize overcapacity within a deregulated utility structure?  Survey the problem and possible solutions, hopefully adding ideas of your own.
+
+## Energy Markets
 
 ## AI/ML in Finance and Accounting

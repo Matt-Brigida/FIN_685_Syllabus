@@ -355,4 +355,10 @@ There are a couple very interesting aspects to cryptocurrencies and cryptocurren
 
 ## Energy Markets
 
+-  Survey the literature on the relationship between natural gas and crude oil prices.
+
+-  
+
 ## AI/ML in Finance and Accounting
+
+The industry with the largest investment in Artificial Intelligence and Machine Learning (AI/ML) is Financial and Accounting Services (cite McKinsey document).  

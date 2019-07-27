@@ -131,6 +131,8 @@ How to summarize a paper:
 
 ##  Possible Paper Topic Areas
 
+Below are a set of possible paper topics.  You do not have to choose one of these topics---in fact many of these are simply topics I am interested in but can't pursue for various reasons.  However, reading through these topics should at the very least give you a good idea of the types and breadth of topics you can pursue.
+
 -  [Capital Structure and Lending Policy at US Banks---FDIC Data Set](#banking-analyses)
 -  [Electricity Markets---Real Option Valuation of Power Plants, Renewable Power Integration](#electricity-markets)
 -  [High-Frequency Trading](#high-frequency-trading)
@@ -341,6 +343,8 @@ There are a couple very interesting aspects to cryptocurrencies and cryptocurren
 
 -  Relationships between the behavior of various currencies.  This is an exercise in time series analysis, and to be done correctly you should use the idea of cointegration.
 
+-  An analysis of the extent of asymmetric information in cryptocurrency markets and the effect on market viability.
+
 -  An analysis of [Libra]()---how does it differ from other currencies and how is it similar? 
 
 -  A survey of the various trading venues for cryptocurrencies and their derivatives.
@@ -353,11 +357,13 @@ There are a couple very interesting aspects to cryptocurrencies and cryptocurren
 
 - How can we incentivize overcapacity within a deregulated utility structure?  Survey the problem and possible solutions, hopefully adding ideas of your own.
 
+-  Survey the percent renewables by ISO and the possible effect on market prices.
+
 ## Energy Markets
 
 -  Survey the literature on the relationship between natural gas and crude oil prices.
 
--  
+-  Survey accounting of oil reserves (explaining various definitions of 'proven').
 
 ## AI/ML in Finance and Accounting
 

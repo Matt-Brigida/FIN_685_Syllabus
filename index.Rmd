@@ -103,6 +103,7 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
     + [Black, F., "The Dividend Puzzle", The Journal of Portfolio Management, (Dec 1996): 8-12.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=fischer+black+dividend+puzzle&btnG=)
     <!-- + Miller, M. and K. Rock, "Dividend Policy Under Asymmetric Information," Journal of Finance, September 1985, 40, 1031-1051.  -->
 -  The Market for Corporate Control
+    + [Size, ownership and the market for corporate control---Robinson, David T., J. Corporate Finance 2009]()
     + IPOs/SEOs
 	    - [Rock, K., 1986, Why new issues are underpriced, Journal of Financial Economics 15, 187-212.]()
     + Mergers and Acquisitions
@@ -111,8 +112,9 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
 -  Market Structure
     + [High frequency market microstructure](http://dx.doi.org/10.1016/j.jfineco.2015.01.003)
 -  Banking post 2008
+    + [Bank capital and lending relationships]()
 -  Contingent Claim Analysis in Complete Markets
--  Artifical Intelligence and Machine Learning in Accounting and Finance
+-  Artificial Intelligence and Machine Learning in Accounting and Finance
 <!-- use mckinsey docs -->
     + Uses by big 4 accounting firms
     + Loan Origination
@@ -124,9 +126,10 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
 How to summarize a paper:
 
 #. What is the purpose of the paper?  What is the unanswered question in the literature?
-#. What analysis method did the author use? Did they use an empirical (statistics), theoritical, or survey approach?
+#. What analysis method did the author use? Did they use an empirical (statistics), theoretical, or survey approach?
 #. What was their conclusion?
 #. What are the limitations to their conclusion? What sort of assumption did they have to make? 
+#. Can you think of further research based on the paper? 
 
 
 ##  Possible Paper Topic Areas

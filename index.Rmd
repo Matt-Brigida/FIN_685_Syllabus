@@ -118,19 +118,40 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
     + Loan Origination
     + Mergers and Acquisitions/Corporate Strategy
     + Valuation
-	
-	
+
+## Course Overview and Grade
+
+Your course grade will consist of the (1) research paper discussions, and (2) a research paper.  Each is discussed below.
+
 ## Research Paper Discussion
 
-How to summarize a paper:
+To earn your research paper discussion posts you must 
+
+#. Submit your assigned research paper summary to the appropriate discussion board.
+#. Submit your thoughts on AI/ML in Accounting and Finance.
+#. Optionally respond to another students' research paper summary.
+
+### How to summarize a paper:
 
 #. What is the purpose of the paper?  What is the unanswered question in the literature?
 #. What analysis method did the author use? Did they use an empirical (statistics), theoretical, or survey approach?
-#. What was their conclusion?
+#. What was their conclusion?  What effect would this conclusion have on practice?
 #. What are the limitations to their conclusion? What sort of assumption did they have to make? 
 #. Can you think of further research based on the paper? 
 
 ##  Possible Paper Topic Areas
+
+You must also submit a research paper by the date indicated in the course schedule.  
+
+Here are the submission guidelines from the *Journal of Finance* (the top journal in finance):
+
+> Length: Your manuscript must not exceed 60 pages in length (with at least 1.5 line spacing, 12-point font, 1-inch side margins, and 1.5-inch top/bottom margins). This page limit includes internal appendices, reference lists, figures, and tables. Papers exceeding this page limit will be immediately desk-rejected. 
+
+Since this is the top journal, they use a rather high 60 page limit. Your do-not-exceed limit is 25 pages.
+
+additionally:
+
+> The first page of your paper should be a title page that includes the names of the authors, the title of the manuscript, and an abstract of not more than 100 words.
 
 Below are a set of possible paper topics.  You do not have to choose one of these topics---in fact many of these are simply topics I am interested in but can't pursue for various reasons.  However, reading through these topics should at the very least give you a good idea of the types and breadth of topics you can pursue.
 
@@ -140,6 +161,20 @@ Below are a set of possible paper topics.  You do not have to choose one of thes
 -  [Energy Markets](#energy-markets)
 -  [Crypotocurrency Markets](#cryptocurrency-markets)
 -  [A case study outlining the effect of AI/ML in Accounting and Finance](#ai/ml-in-finance-and-accounting)
+
+### Research Paper Structure
+
+Research papers have a common structure which everyone follows:
+
+#.  Introduction and Literature Review:  Summarize the state of the literature and on the topic and explain how your present research fits in.
+#.  Data and Methods
+#.  Results
+#.  Conclusion
+
+### General Notes on Writing Research Papers
+
+[Some Points from J. Cochrane](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)
+
 
 ## Course Communication
 

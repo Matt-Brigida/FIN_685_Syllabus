@@ -81,7 +81,8 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
 ## Topics Covered
 
 <!-- some good papers here: https://www2.bc.edu/thomas-chemmanur/page/mf891_syllabus99.html -->
-
+-  Event Studies
+    + [Event Studies in Economics and Finance](https://scholar.google.com/scholar?cluster=9304861094502908661&hl=en&as_sdt=0,33)
 -  Capital Structure
     + In Perfect Capital Markets
         - [Modigliani, F. and M. Miller "The Cost of Capital, Corporation Finance and the Theory of Investment" American Economic Review, June 1958, 261-297.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=Modigliani%2C+F.+and+M.+Miller+%E2%80%9CThe+Cost+of+Capital%2C+Corporation+Finance+and+the+Theory+of+Investment%E2%80%9D+American+Economic+Review%2C+June+1958%2C+261-297.&btnG=)
@@ -93,6 +94,8 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
    + [Ackerlof, G. A., "The market for lemons: Quality Uncertainty and the Market Mechanism," The Rand Journal of Economics.](https://pages.ucsd.edu/~aronatas/project/academic/Akerlof%20on%20Lemons.pdf)
 - Adverse Selection and Capital Structure
    + [Myers, S. and N. Majluf, "Corporate Financing and Investment Decisions When Firms Have Information that Investors Do Not Have," Journal of Financial Economics, June 1984,187-221.](https://www.nber.org/papers/w1396.pdf)
+-  Accounting Regulation
+    + [Do the FASB's Standards Add Shareholder Value?](https://www.american.edu/kogod/research/upload/kogod-accounting-and-finance-seminars-rajgopal-research-doc.pdf)
 -  Dividend Policy
     + [Black, F., "The Dividend Puzzle", The Journal of Portfolio Management, (Dec 1996): 8-12.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=fischer+black+dividend+puzzle&btnG=)
     <!-- + Miller, M. and K. Rock, "Dividend Policy Under Asymmetric Information," Journal of Finance, September 1985, 40, 1031-1051.  -->
@@ -112,6 +115,8 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
     + [Bank capital and lending relationships](https://scholar.google.com/scholar?cluster=2931503161409199966&hl=en&as_sdt=0,33)
 <!-- -  Contingent Claim Analysis in Complete Markets -->
 <!--     + []() -->
+-  Auditing
+    + [Audit Partner Identifcation and Audit Quality](https://poseidon01.ssrn.com/delivery.php?ID=550083013021094031093127086098127109019053019081050000104122078004026096095115101007032035042036057108108083079117113003113014107011054000040117114104122117106027087001059076065065105005122087025065064025002108085024029025080011065126094120104073113127&EXT=pdf)
 -  Artificial Intelligence and Machine Learning in Accounting and Finance (See the McKiney documents in BB)
 <!-- use mckinsey docs -->
     + Uses by big 4 accounting firms

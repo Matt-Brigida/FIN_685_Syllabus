@@ -22,7 +22,7 @@ opts_chunk$set(echo=FALSE,
 opts_knit$set(width=75)
 ```
 
-# Syllabus (FIN 685) Seminar in Finance
+# Syllabus (FIN 685) Seminar in Accounting and Finance
 <br>
 <br>
 <center>
@@ -36,13 +36,11 @@ opts_knit$set(width=75)
 
 **Office**: Donovan 1277
 
-<!-- **Office Hours**: Tuesday 4:00--6:00 and Monday/Wednesday 11:00--12:00 -->
+**Office Hours**: online
 
 **Email**:  matthew.brigida@sunypoly.edu
 
 **Class Location**:  Online (Blackboard)
-
-<!-- **Text**: [*Investments* by Bodie, Kane, and Marcus, 8th edition (or later), ISBN: 0077261453](http://www.amazon.com/Investments-8th-Edition-Zvi-Bodie/dp/0077261453/ref=sr_1_5?ie=UTF8&qid=1407685749&sr=8-5&keywords=investment+bodie+kane+marcus) -->
 
 **Supplementary Material**: [5MinuteFinance.org](https://www.5minutefinance.org/)
 
@@ -168,9 +166,15 @@ Here are the submission guidelines from the *Journal of Finance* (the top journa
 
 > Length: Your manuscript must not exceed 60 pages in length (with at least 1.5 line spacing, 12-point font, 1-inch side margins, and 1.5-inch top/bottom margins). This page limit includes internal appendices, reference lists, figures, and tables. Papers exceeding this page limit will be immediately desk-rejected. 
 
-Since this is the top journal, they use a rather high 60 page limit. Your do-not-exceed limit is 25 pages.
+Since this is the top journal, they use a rather high 60 page limit. This page limit is consistent with the type of analysis a couple of authors, with a few research assistants, and a couple years can complete.  You are working alone, with no research help, in less than a semester, so your analysis should target what we term a 'letters' type paper.
 
-additionally:
+The guidelines from [Finance Research Letters](https://www.elsevier.com/journals/finance-research-letters/1544-6123/guide-for-authors#902) are:
+
+> Manuscripts cannot exceed 2500 words. This includes only the body of the text and excludes references, tables, and art. The total length of your paper including any references, tables, and figures cannot exceed 14 pages.
+
+And note this is a *maximum*.  You are free to hand in fewer pages.  What matters is the content.
+
+Regarding the abstract:
 
 > The first page of your paper should be a title page that includes the names of the authors, the title of the manuscript, and an abstract of not more than 100 words.
 
@@ -360,12 +364,11 @@ There are a couple very interesting aspects to cryptocurrencies and cryptocurren
 
 The industry with the largest investment in Artificial Intelligence and Machine Learning (AI/ML) is Financial and Accounting Services (cite McKinsey document).
 
-
 ## BRTI Tick Data {#brti}
 
-Below are millisecond data for the Bitcoin Real-Time Index on Jan 3, 2018.  The data are pulled via the IB API.  With data of this type, you can dicover interesting features of market data---for example, notice the "last trade" is often outside of the bid/offer.  This is particularly important to understand when trading illiquid contracts, such as some options.  You can left-click your mouse, and drag, to zoom in on subintervals.
+Below are millisecond data for the Bitcoin Real-Time Index on Jan 3, 2018.  The data are pulled via the IB API.  With data of this type, you can discover interesting features of market data---for example, notice the "last trade" is often outside of the bid/offer.  This is particularly important to understand when trading illiquid contracts, such as some options.  You can left-click your mouse, and drag, to zoom in on subintervals.
 
-Using such data is not necesary in this course, though if you would like to use similar data in your analysis let me know.  I can either pull the data you want for you, or I can request an account for you where you can pull the data.
+Using such data is not necessary in this course, though if you would like to use similar data in your analysis let me know.  I can either pull the data you want for you, or I can request an account for you where you can pull the data.  You can also use a week of millisecond data I have already downloaded.
 
 ```{r error=FALSE, warning=FALSE, eval = TRUE}
 library(dygraphs)

@@ -149,9 +149,20 @@ To earn your research paper discussion posts you must
 #. What are the limitations to their conclusion? What sort of assumption did they have to make? 
 #. Can you think of further research based on the paper? 
 
-##  Possible Paper Topic Areas
+### Thoughts on AI/ML
 
-You must also submit a research paper by the date indicated in the course schedule.  
+I have linked to McKinsey discussion papers on AI.  Often people tend to discuss whether AI will really revolutionize a particular industry.  I would suggest that this discussion is irrelevant, because it is clear from the McKinsey analysis that Accounting and Financial Services firms are making significant investments in the technology.  So we don't need to speculate, but we will rather find out in 10 years or so.
+
+But because such large investments are being made by the top Accounting/Finance firms, we should be familiar with the technology, its terms and concepts, and the areas where it will be applied.  So read/skim the linked papers and make a post to the AI/ML discussion board.  You are free to post any observation you wish.  Imagine you are sitting in a department meeting at work, and someone asks what you think of the McKinsey analyses, or your thoughts on AI generally.  A couple types of posts you could make are:
+
+-  Can you think of any additional applications of AI in Accounting and Finance?
+-  Do you have any opinions on the impact of AI in the areas listed in the McKinsey analyses?  For example do you think loan origination is a particularly advantageous area to apply AI (or do you think it won't work for some reason)?
+-  Do you find any regulatory hurdles in applying AI solutions to a particular area?  For example Congress is presently investigating the effect of AI on loan origination.
+-  If you have personally implemented an AI solution (outside of work) feel free to post a description.  For example, in addition to using AI in research, I have also testing using [reinforcement learning for trading](https://doctorj.gitlab.io/sairen/) as a fun project.
+
+## Research Paper
+
+You must also submit a research paper by the date indicated in the course schedule.
 
 Here are the submission guidelines from the *Journal of Finance* (the top journal in finance):
 
@@ -162,6 +173,8 @@ Since this is the top journal, they use a rather high 60 page limit. Your do-not
 additionally:
 
 > The first page of your paper should be a title page that includes the names of the authors, the title of the manuscript, and an abstract of not more than 100 words.
+
+###  Possible Paper Topic Areas
 
 Below are a set of possible paper topics.  You do not have to choose one of these topics---in fact many of these are simply topics I am interested in but can't pursue for various reasons.  However, reading through these topics should at the very least give you a good idea of the types and breadth of topics you can pursue.
 

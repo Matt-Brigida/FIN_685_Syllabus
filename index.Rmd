@@ -78,6 +78,8 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
 
 ## Topics Covered
 
+-  General
+    + [Does Finance Benefit Society?](https://faculty.chicagobooth.edu/luigi.zingales/papers/research/Finance.pdf)
 <!-- some good papers here: https://www2.bc.edu/thomas-chemmanur/page/mf891_syllabus99.html -->
 -  Event Studies
     + [Event Studies in Economics and Finance](https://scholar.google.com/scholar?cluster=9304861094502908661&hl=en&as_sdt=0,33)
@@ -94,6 +96,8 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
    + [Myers, S. and N. Majluf, "Corporate Financing and Investment Decisions When Firms Have Information that Investors Do Not Have," Journal of Financial Economics, June 1984,187-221.](https://www.nber.org/papers/w1396.pdf)
 -  Accounting Regulation
     + [Do the FASB's Standards Add Shareholder Value?](https://www.american.edu/kogod/research/upload/kogod-accounting-and-finance-seminars-rajgopal-research-doc.pdf)
+-  Accounting Disclosure
+    + [Einhorn, E. and A. Ziv (2012).Biased Voluntary Disclosure, Review of Accounting Studies.]()
 -  Dividend Policy
     + [Black, F., "The Dividend Puzzle", The Journal of Portfolio Management, (Dec 1996): 8-12.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=fischer+black+dividend+puzzle&btnG=)
     <!-- + Miller, M. and K. Rock, "Dividend Policy Under Asymmetric Information," Journal of Finance, September 1985, 40, 1031-1051.  -->
@@ -102,19 +106,27 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
     + IPOs/SEOs
       - [A review of IPO activity, pricing, and allocations](https://www.nber.org/papers/w8805.pdf)
       - [Why has IPO underpricing changes over time?](https://scholar.google.com/scholar?cluster=2692753777902135925&hl=en&as_sdt=0,33)
+	  - [Market Making Contracts, Firm Value, and the IPO Decision](https://www.jstor.org/stable/43611126?seq=1#page_scan_tab_contents)
       <!---  - [Rock, K., 1986, Why new issues are underpriced, Journal of Financial Economics 15, 187-212.]() -->
     + Mergers and Acquisitions
+	  - [Do acquisitions relieve target firms' financial constraints?](https://www.nber.org/papers/w18840.pdf)
+	  - [Strategic and Financial Bidders in Takeover Auctions](https://www.jstor.org/stable/43611075?seq=1#page_scan_tab_contents)
 - Security Design
     + [Harris, Milton and Artur Raviv (1989), "The Design of Securities," Journal of Financial Economics, 24, 255-287.]()
 -  Market Structure
-    + [The Only Game in Town](Bagehot)
+    <!-- + [The Only Game in Town](Bagehot) -->
+	+ [Kyle, A.(1985) Continuous Auctions and Insider Trading.  Econometrica. 1985. 53 (6). 1315-1335.](https://www.jstor.org/stable/1913210?seq=1#page_scan_tab_contents)
     + [High frequency market microstructure](http://dx.doi.org/10.1016/j.jfineco.2015.01.003)
+	+ [Do Prices Reveal the Presence of Informed Trading?](https://www.jstor.org/stable/43612930?seq=1#page_scan_tab_contents)
+	+ [Subsidizing Liquidity: The Impact of Make/Take Fees on Market Quality ](https://www.jstor.org/stable/43611040?seq=1#page_scan_tab_contents)
 -  Banking post 2008
     + [Bank capital and lending relationships](https://scholar.google.com/scholar?cluster=2931503161409199966&hl=en&as_sdt=0,33)
+	+ [Size Anomalies in U.S. Bank Stock Returns](https://www.jstor.org/stable/43611046?seq=1#page_scan_tab_contents)
 <!-- -  Contingent Claim Analysis in Complete Markets -->
 <!--     + []() -->
 -  Auditing
     + [Audit Partner Identifcation and Audit Quality](https://poseidon01.ssrn.com/delivery.php?ID=550083013021094031093127086098127109019053019081050000104122078004026096095115101007032035042036057108108083079117113003113014107011054000040117114104122117106027087001059076065065105005122087025065064025002108085024029025080011065126094120104073113127&EXT=pdf)
+	+ [Aobdia, Daniel, Lin, Chan-Jane, and Petacchi, Reining. Capital Market Consequences of Audit Partner Quality. Accounting Review. Nov2015, Vol. 90 Issue 6, 2143-2176.]()
 -  Artificial Intelligence and Machine Learning in Accounting and Finance (See the McKiney documents in BB)
 <!-- use mckinsey docs -->
     + [McKinsey AI](https://www.mckinsey.com/featured-insights/artificial-intelligence)
@@ -215,8 +227,8 @@ All communication will be through Blackboard and email. If you have question you
 tabl <- "
 | Item | Points |
 | ---- | ------ |
-| Paper Summaries | 60 |
-| Research Paper |  40 |
+| Paper Summaries | 40 |
+| Research Paper |  60 |
 | Total Points | 100 |
 "
 cat(tabl)

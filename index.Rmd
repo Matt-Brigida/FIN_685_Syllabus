@@ -252,15 +252,15 @@ cat(tabl)
 
 - 8/27: Course Intro
 - 9/3:
-- 9/10: Capital Structure Summaries
+- 9/10: 
 - 9/17: 
-- 9/24: Adverse Selection and Dividend Policy Summaries
+- 9/24: 
 - 10/1: 
-- 10/8: The Market for Corporate Control Summaries 
-- 10/15: 
-- 10/22: Security Design and Market Microstructure and Banking
+- 10/8: Summaries due by the end of the week.
+- 10/15:
+- 10/22: 
 - 10/29: 
-- 11/5: AI
+- 11/5: AI opinions due by the end of the week.
 - 11/12: 
 - 11/19: 
 - 11/26--12/8: **The last day to submit your papers.**

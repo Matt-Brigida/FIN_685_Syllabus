@@ -1,12 +1,12 @@
 ---
 title:
-date: "January 15, 2019"
+date: "August 25, 2019"
 output:
   rmdformats::html_clean:
     highlight: kate
 ---
 
-```{r knitr_init, echo=FALSE, cache=FALSE}
+```{r knitr_init, echo=FALSE, cache=FALSE, message=FALSE, warning=FALSE}
 library(knitr)
 library(rmdformats)
 

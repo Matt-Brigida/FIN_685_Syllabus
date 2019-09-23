@@ -333,7 +333,7 @@ For example I use LibreOffice (http://www.libreoffice.org).
 
 ## Banking Analyses
 
-I have created this [panel data set]() which I [used in this paper]().  You can use this data set to estimate the relationship between a bank's capital structure and aspects of its loan portfolio or performance.
+I have created this [panel data set](https://github.com/Matt-Brigida/FFIEC_Call_Reports/tree/master/1_querying_data_and_analysis/analyses/panel_data_analysis/full_panel/1_panel_with_full_quarter_date/1_one_panel_all_models) which I [used in this paper](https://github.com/Matt-Brigida/research-public/blob/master/T1_effect_revenue.pdf).  You can use this data set to estimate the relationship between a bank's capital structure and aspects of its loan portfolio or performance.
 
 -  Do higher levels of equity in a banks capital structure lead to lower profitability?  This analysis would be best done in R or Python instead of Excel.
 
@@ -353,7 +353,7 @@ There are a couple very interesting aspects to cryptocurrencies and cryptocurren
 
 -  An analysis of the extent of asymmetric information in cryptocurrency markets and the effect on market viability.
 
--  An analysis of [Libra]()---how does it differ from other currencies and how is it similar? 
+-  An analysis of [Libra](https://libra.org/en-US/wp-content/uploads/sites/23/2019/06/LibraWhitePaper_en_US.pdf)---how does it differ from other currencies and how is it similar? 
 
 -  A survey of the various trading venues for cryptocurrencies and their derivatives.
 
@@ -376,6 +376,10 @@ There are a couple very interesting aspects to cryptocurrencies and cryptocurren
 ## AI/ML in Finance and Accounting
 
 The industry with the largest investment in Artificial Intelligence and Machine Learning (AI/ML) is Financial and Accounting Services (cite McKinsey document).
+
+## Pipeline Risk in Pharma
+
+[This paper](https://www.milkeninstitute.org/reports/hedging-pipeline-risk-pharma-fda-swaps-and-annuities) discusses a possible method to reduce pipeline risk---the risk that a potential drug or device is delayed or not approved.  The methods cited in the paper are not going to work.  You could write a short paper highlighting why.  Hint: what effect does large amounts of asymmetric information have on market viability?  This paper would be a good for someone interested in a 'qualitative' analysis.
 
 ## BRTI Tick Data {#brti}
 

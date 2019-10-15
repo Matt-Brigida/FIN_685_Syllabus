@@ -339,6 +339,8 @@ I have created this [panel data set](https://github.com/Matt-Brigida/FFIEC_Call_
 
 You may want to look at the paper, "Bank Capital and Lending Relationships"  (and the papers that cited it) prior to starting your analysis.
 
+-  [The number of banks in the US has been steadily declining](https://www.richmondfed.org/-/media/richmondfedorg/publications/research/economic_brief/2015/pdf/eb_15-03.pdf). You can use my panel data set to do an analysis which addresses which typed of banks is this mainly affecting, and why.  
+
 ## High Frequency Trading (HFT)
 
 - Survey the effect of Regulation NMS on market structure and the rise of HFT.
@@ -358,6 +360,8 @@ There are a couple very interesting aspects to cryptocurrencies and cryptocurren
 -  A survey of the various trading venues for cryptocurrencies and their derivatives.
 
 -  A survey of various cryptocurrency market APIs.
+
+-  Did the introduction of CME Futures on Bitcoin affect trading in Bitcoin itself? This is a test of whether the futures contract can affect the underlying asset.  I have the top-of-book (millisecond time-stamped) built for Bitcoin Futures and the underlying index around the introduction of the futures contract.  You can use whatever empirical methods you are comfortable with to investigate whether trading in Bitcoin changed.
 
 ## Electricity Markets
 

@@ -339,7 +339,7 @@ I have created this [panel data set](https://github.com/Matt-Brigida/FFIEC_Call_
 
 You may want to look at the paper, "Bank Capital and Lending Relationships"  (and the papers that cited it) prior to starting your analysis.
 
--  [The number of banks in the US has been steadily declining](https://www.richmondfed.org/-/media/richmondfedorg/publications/research/economic_brief/2015/pdf/eb_15-03.pdf). You can use my panel data set to do an analysis which addresses which typed of banks is this mainly affecting, and why.  
+-  [The number of banks in the US has been steadily declining](https://www.richmondfed.org/-/media/richmondfedorg/publications/research/economic_brief/2015/pdf/eb_15-03.pdf). You can use my panel data set to do an analysis which addresses which typed of banks is this mainly affecting, and why.
 
 ## High Frequency Trading (HFT)
 

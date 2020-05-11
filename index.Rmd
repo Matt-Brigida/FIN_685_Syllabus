@@ -120,6 +120,7 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
     + [High frequency market microstructure](http://dx.doi.org/10.1016/j.jfineco.2015.01.003)
 	+ [Do Prices Reveal the Presence of Informed Trading?](https://www.jstor.org/stable/43612930?seq=1#page_scan_tab_contents)
 	+ [Subsidizing Liquidity: The Impact of Make/Take Fees on Market Quality ](https://www.jstor.org/stable/43611040?seq=1#page_scan_tab_contents)
+	+ [Cream‐skimming or profit‐sharing? The curious role of purchased order flow](https://scholar.google.com/scholar?cluster=5963764566755566857&hl=en&as_sdt=0,33)
 -  Banking post 2008
     + [Bank capital and lending relationships](https://scholar.google.com/scholar?cluster=2931503161409199966&hl=en&as_sdt=0,33)
 	+ [Size Anomalies in U.S. Bank Stock Returns](https://www.jstor.org/stable/43611046?seq=1#page_scan_tab_contents)

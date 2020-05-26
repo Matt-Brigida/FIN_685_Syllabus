@@ -267,9 +267,9 @@ cat(tabl)
 <!-- - 11/19:  -->
 <!-- - 11/26--12/8: **The last day to submit your papers.** -->
 <!-- - 12/10: Finals Week (nothing due) -->
-June 12: Summaries due by the end of the week.
-June 19: AI opinions due by the end of the week.
-July 14: **The last day to submit your papers.**
+- June 12: Summaries due by the end of the week.
+- June 19: AI opinions due by the end of the week.
+- July 14: **The last day to submit your papers.**
 
 Note these are due dates.  I suggest you don't wait until the due date to submit your summaries/paper.  For example, your research paper summary can be done in a single afternoon, so it would make sense to get this done as soon as possible so you can move on to your paper.
 

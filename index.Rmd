@@ -252,68 +252,26 @@ cat(tabl)
 
 ## Tentative Outline/Schedule
 
-- 8/27: Course Intro
-- 9/3:
-- 9/10: 
-- 9/17: 
-- 9/24: 
-- 10/1: 
-- 10/8: Summaries due by the end of the week.
-- 10/15:
-- 10/22: 
-- 10/29: 
-- 11/5: AI opinions due by the end of the week.
-- 11/12: 
-- 11/19: 
-- 11/26--12/8: **The last day to submit your papers.**
-- 12/10: Finals Week (nothing due)
+<!-- - 8/27: Course Intro -->
+<!-- - 9/3: -->
+<!-- - 9/10:  -->
+<!-- - 9/17:  -->
+<!-- - 9/24:  -->
+<!-- - 10/1:  -->
+<!-- - 10/8: Summaries due by the end of the week. -->
+<!-- - 10/15: -->
+<!-- - 10/22:  -->
+<!-- - 10/29:  -->
+<!-- - 11/5: AI opinions due by the end of the week. -->
+<!-- - 11/12:  -->
+<!-- - 11/19:  -->
+<!-- - 11/26--12/8: **The last day to submit your papers.** -->
+<!-- - 12/10: Finals Week (nothing due) -->
+June 12: Summaries due by the end of the week.
+June 19: AI opinions due by the end of the week.
+July 14: **The last day to submit your papers.**
 
-
-
-
-
-
-<!-- Spring -->
-<!-- - 1/15: Chapter 1 -->
-<!-- - 1/22:  Chapter 2 \& 3 -->
-<!-- - 1/29: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project** -->
-<!-- - 2/5: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1). -->
-<!-- - 2/12: Chapter 6 -->
-<!-- - 2/19: Chapter 7 -->
-<!--   + **Recommended <font color="red">Due Date</font> for the Market Depth Project** -->
-<!--   + **Start MV Optimal Portfolio Project** [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12) -->
-<!-- - 2/26: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) -->
-<!-- - *Midterm is through Securitization.  Final exam will cover from here onward.* -->
-<!-- - 3/12: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required** -->
-<!-- - 3/19: Chapter 20 -->
-<!-- - 3/26: Chapter 21 -->
-<!--   + **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project** -->
-<!--   + **Start Option Pricing (Black-Scholes) Project** -->
-<!-- - 4/1: Chapter 22 -->
-<!-- - 4/8: Chapter 23 -->
-<!-- - 4/15: Projects/Trade -->
-<!-- - 4/22: Projects/Trade -->
-<!--   + **<font color="red">All assignments/exams/projects due by the end of the week</font>.** -->
-<!-- - 5/6: Finals Week -->
-
-<!-- Summer -->
-<!-- - 5/20: Chapters 1 and 2 -->
-<!-- - 5/27: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project** -->
-<!-- - 6/3: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1). -->
-<!-- - 6/10: Chapters 6 and 7 -->
-<!--   + **Recommended <font color="red">Due Date</font> for the Market Depth Project** -->
-<!--   + **Start MV Optimal Portfolio Project** [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12) -->
-<!-- - 6/17: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) -->
-<!--   + *Midterm is through Securitization.  Final exam will cover from here onward.* -->
-<!-- - 6/24: Chapters 20 and 21 -->
-<!--   + **Recommended <font color="red">Due Date</font> for the MV Optimal Portfolio Project** -->
-<!--   + **Start Option Pricing (Black-Scholes) Project** -->
-<!-- - 7/1: Chapters 22 and 23 -->
-<!-- - 7/8: Projects/Trade -->
-<!--   + **<font color="red">All assignments/exams/projects due by the end of the week</font>.** -->
-
-
-<!-- > Based on student input, we may add topics in portfolio theory such as those found in chapters 5 through 10, and chapter 24. -->
+Note these are due dates.  I suggest you don't wait until the due date to submit your summaries/paper.  For example, your research paper summary can be done in a single afternoon, so it would make sense to get this done as soon as possible so you can move on to your paper.
 
 ## General Notes
 

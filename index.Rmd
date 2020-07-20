@@ -203,18 +203,30 @@ Below are a set of possible paper topics.  You do not have to choose one of thes
 -  [Crypotocurrency Markets](#cryptocurrency-markets)
 -  [A case study outlining the effect of AI/ML in Accounting and Finance](#ai/ml-in-finance-and-accounting)
 
+#### Caution Regarding Survey Articles, Read This!
+
+You are much more likely to write a good research paper (and receive a higher score) if you write an empirical paper.  This is also fairly easy.  Gather some relevant data, summarize and visualize it, test a few hypotheses via appropriate regressions, and you have a paper.  I will also not take off man points if your statistical methods are not entirely correct.  I have also provided you with data.
+
+Often students will attempt a survey article, but what they hand in is a book report.  Since this is not research they receive a very low score.  Research should add something new and not simply summarize what is out there.  A proper survey article (see Maureen O'Hara's survey of Market Microstructure) will summarize a topic with an extraordinary amount of research and then point out gaps for additional research.  That is the topic is so active that few understand everything going on in it and don't know where to begin.  The survey provides this.  A survey article, arguably, is much harder than an empirical paper.  Only do a survey if you are interested in reading 30+ journal articles and learning everything about a topic.  Lastly, you must cite peer-reviewed research in a journal article. 
+
+All journals are not the same quality, and some are not reputable.  If you are going to do a survey article you should learn which journals are reputable---see the journals for the research papers I posted.  You will receive a low score if you cite bad journals.
+
 ### Research Paper Structure
 
-Research papers have a common structure which everyone follows:
+Empirical research papers have a common structure which everyone follows:
 
 #.  Introduction and Literature Review:  Summarize the state of the literature and on the topic and explain how your present research fits in.
 #.  Data and Methods
 #.  Results
 #.  Conclusion
 
+Theoretical research would replace =Data and Methods= with a theoretical model.  For survey articles see Maureen O'Hara's survey of the Market Microstructure literature.
+
 ### General Notes on Writing Research Papers
 
 [Some Points from J. Cochrane](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)
+
+- Verbatim quotes in a research paper should be kept to a minimum.  Make a note of how many quotes were in the research paper you summarized.  A few students each semester will try and hand in a paper that has a significant portion copied and pasted from other papers. They think that because they cite the other paper this is OK.  It is not.  You should write in your own words, and if there is something you don't know how to say, then you have to take the time to understand it better.  So you can summarize another paper's results and cite it, but not copy and paste within quotations and cite.
 
 
 ## Course Communication
@@ -342,7 +354,7 @@ The industry with the largest investment in Artificial Intelligence and Machine 
 
 ## Pipeline Risk in Pharma
 
-[This paper](https://www.milkeninstitute.org/reports/hedging-pipeline-risk-pharma-fda-swaps-and-annuities) discusses a possible method to reduce pipeline risk---the risk that a potential drug or device is delayed or not approved.  The methods cited in the paper are not going to work.  You could write a short paper highlighting why.  Hint: what effect does large amounts of asymmetric information have on market viability?  This paper would be a good for someone interested in a 'qualitative' analysis.
+[This paper](https://www.nber.org/papers/w23344.pdf) and [this summary](https://www.milkeninstitute.org/reports/hedging-pipeline-risk-pharma-fda-swaps-and-annuities) discusses a possible method to reduce pipeline risk---the risk that a potential drug or device is delayed or not approved.  The methods face significant hurdles.  You could write a short paper highlighting why.  Hint: what effect does large amounts of asymmetric information have on market viability?  This paper would be a good for someone interested in a 'qualitative' analysis, however be sure to cite relevant peer reviewed research on market viability.  You are likely to earn a much higher score if you are able to gather relevant data and add an empirical portion.
 
 ## BRTI Tick Data {#brti}
 

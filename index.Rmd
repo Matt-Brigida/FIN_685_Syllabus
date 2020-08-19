@@ -42,7 +42,7 @@ opts_knit$set(width=75)
 
 **Class Location**:  Online (Blackboard)
 
-**Supplementary Material**: [5MinuteFinance.org](https://www.5minutefinance.org/)
+**Supplementary Material**: [readthefinance.com](readthefinance.com) | [5MinuteFinance.org](https://www.5minutefinance.org/)
 
 ## Course Structure and Interaction
 
@@ -176,6 +176,31 @@ But because such large investments are being made by the top Accounting/Finance 
 
 You must also submit a research paper by the date indicated in the course schedule.
 
+### The Point of Research
+
+The point of research is to add something **new** to our knowledge of a topic.  Research does not simply report what others have done, or speculate on what you **think** may happen.  
+
+### Paper Categories
+
+1. Empirical
+2. Purely Theoretical
+3. Survey
+
+I highly recommend that you complete an empirical analysis.  It is the type of paper in which you can most easily make an original contribution to the literature.  I am also here to help you with statistical methods. 
+
+### Research Paper Structure
+
+Empirical research papers have a common structure which everyone follows:
+
+#.  Introduction and Literature Review:  Summarize the state of the literature and on the topic and explain how your present research fits in.
+#.  Data and Methods
+#.  Results
+#.  Conclusion
+
+Theoretical research would replace =Data and Methods= with a theoretical model.  For survey articles see Maureen O'Hara's survey of the Market Microstructure literature (also see the warning on survey articles below).
+
+### Paper Length
+
 Here are the submission guidelines from the *Journal of Finance* (the top journal in finance):
 
 > Length: Your manuscript must not exceed 60 pages in length (with at least 1.5 line spacing, 12-point font, 1-inch side margins, and 1.5-inch top/bottom margins). This page limit includes internal appendices, reference lists, figures, and tables. Papers exceeding this page limit will be immediately desk-rejected. 
@@ -205,22 +230,11 @@ Below are a set of possible paper topics.  You do not have to choose one of thes
 
 #### Caution Regarding Survey Articles, Read This!
 
-You are much more likely to write a good research paper (and receive a higher score) if you write an empirical paper.  This is also fairly easy.  Gather some relevant data, summarize and visualize it, test a few hypotheses via appropriate regressions, and you have a paper.  I will also not take off man points if your statistical methods are not entirely correct.  I have also provided you with data.
+You are much more likely to write a good research paper (and receive a higher score) if you write an empirical paper.  This is also fairly easy.  Gather some relevant data, summarize and visualize it, test a few hypotheses via appropriate regressions, and you have a paper.  I will also not take off many points if your statistical methods are not entirely correct.  I have also provided you with data.
 
-Often students will attempt a survey article, but what they hand in is a book report.  Since this is not research they receive a very low score.  Research should add something new and not simply summarize what is out there.  A proper survey article (see Maureen O'Hara's survey of Market Microstructure) will summarize a topic with an extraordinary amount of research and then point out gaps for additional research.  That is the topic is so active that few understand everything going on in it and don't know where to begin.  The survey provides this.  A survey article, arguably, is much harder than an empirical paper.  Only do a survey if you are interested in reading 30+ journal articles and learning everything about a topic.  Lastly, you must cite peer-reviewed research in a journal article. 
+Often students will attempt a survey article, but what they hand in is a book report.  Since this is not research they receive a very low score.  Research should add something new and not simply summarize what is out there.  A proper survey article (see Maureen O'Hara's survey of Market Microstructure) will summarize a topic with an extraordinary amount of research and then point out gaps for additional research.  That is the topic is so active that few understand everything going on in it and don't know where to begin.  The survey provides this.  A survey article, arguably, is much harder than an empirical paper.  Only do a survey if you are interested in reading 40+ journal articles and learning everything about a topic.  Lastly, you must cite peer-reviewed research in a journal article. You should not cite newspapers, internet sources, or anything other than peer-reviewed research.
 
 All journals are not the same quality, and some are not reputable.  If you are going to do a survey article you should learn which journals are reputable---see the journals for the research papers I posted.  You will receive a low score if you cite bad journals.
-
-### Research Paper Structure
-
-Empirical research papers have a common structure which everyone follows:
-
-#.  Introduction and Literature Review:  Summarize the state of the literature and on the topic and explain how your present research fits in.
-#.  Data and Methods
-#.  Results
-#.  Conclusion
-
-Theoretical research would replace =Data and Methods= with a theoretical model.  For survey articles see Maureen O'Hara's survey of the Market Microstructure literature.
 
 ### General Notes on Writing Research Papers
 

@@ -416,3 +416,21 @@ You should construct your spreadsheet as if you were an analyst at a company, an
 - Pivot tables.  While we probably won't need them in this course, you should nonetheless get to know them.  Pivot tables are incredibly useful for summarizing data, and it is very possible you will be asked in an interview whether you are familiar with them.  Similarly, get to know VLOOKUP.
 -  If you are inputting a long formula, then break the calculation into multiple cells.  This makes it much easier to tell where a mistake was made - and everyone always spends a fair amount of time looking for errors.
 - Excel has many built in formulas which can be useful, however it is important that you understand what the formula is doing to use them.  Blindly applying a formula can lead to trouble.  For example, if you use the IRR() function on cash flows with multiple roots, the formula will return the first root it finds without signaling to you that there are other roots.  Also, there are Excel formulas that are flat out incorrect - in particular the NPV() function.  So, use a function if it saves time, but first be sure you know what the function is doing and verify it works.  That said, in my experience it is better (and faster) to input your own formula instead of using Excel's.  You often have to break the calculation into a couple of steps, but this can be done quickly, and the result is a spreadsheet that you know works and is easily auditable.
+
+# Data
+
+## Energy
+
+- [NYISO](https://www.nyiso.com/energy-market-operational-data)
+- [PJM](https://pjm.com/markets-and-operations/data-dictionary.aspx)
+- [EIA API](https://www.eia.gov/opendata/qb.php)
+
+
+## Banking
+
+- [HMDA](https://www.ffiec.gov/HMDA/)
+- [FDIC](https://www7.fdic.gov/sdi/download_large_list_outside.asp)
+
+## Stock Market
+
+-[IEX API](https://www.iexcloud.io/docs/api/)

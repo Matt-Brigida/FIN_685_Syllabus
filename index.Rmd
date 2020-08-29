@@ -326,6 +326,8 @@ I have created this [panel data set](https://github.com/Matt-Brigida/FFIEC_Call_
 
 -  Do higher levels of equity in a banks capital structure lead to lower profitability?  This analysis would be best done in R or Python instead of Excel.
 
+-  Do declines in the value of the US dollar affect the number of foreign acquisitions of US firms (use M&A data set)?
+
 -  Do Minority-Owned Financial Institutions have higher costs of capital?
 
 -  Do ETNs track an index more closely than ETFs?

@@ -222,6 +222,7 @@ Regarding the abstract:
 
 Below are a set of possible paper topics.  You do not have to choose one of these topics---in fact many of these are simply topics I am interested in but can't pursue for various reasons.  However, reading through these topics should at the very least give you a good idea of the types and breadth of topics you can pursue.
 
+-  [COVID-19](#COVID-19)
 -  [Capital Structure and Lending Policy at US Banks---FDIC Data Set](#banking-analyses)
 -  [Electricity Markets---Real Option Valuation of Power Plants, Renewable Power Integration](#electricity-markets)
 -  [High-Frequency Trading](#high-frequency-trading)
@@ -319,8 +320,14 @@ good (and which allow you to save/read files as .doc(x), .pdf, and .xls(x)).
 For example I use LibreOffice (http://www.libreoffice.org). 
 
 
+## COVID-19
+
+- Use a breakpoint analysis to determine when market volatility increased in the beginning of the COVID crisis.  This is an estimate of when the market realized there was a problem.  You can also see if certain sectors of the economy reacted earlier using ETFs.
+
 
 ## Banking Analyses
+
+-  Were large and regional banks affected differently by the COVID-19 pandemic?  You can use easily-available ETF data for this analysis---a regional bank ETF vs the total banking sector ETF (XLF) which is dominated by the larger banks.
 
 I have created this [panel data set](https://github.com/Matt-Brigida/FFIEC_Call_Reports/tree/master/1_querying_data_and_analysis/analyses/panel_data_analysis/full_panel/1_panel_with_full_quarter_date/1_one_panel_all_models) which I [used in this paper](https://github.com/Matt-Brigida/research-public/blob/master/T1_effect_revenue.pdf).  You can use this data set to estimate the relationship between a bank's capital structure and aspects of its loan portfolio or performance.
 

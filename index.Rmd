@@ -43,7 +43,7 @@ opts_knit$set(width=75)
 
 **Class Location**:  Online (Blackboard)
 
-**Supplementary Material**: [readthefinance.com](readthefinance.com) | [5MinuteFinance.org](https://www.5minutefinance.org/)
+**Supplementary Material**: [Financial-Education Site](https://financial-education.github.io) | [5MinuteFinance.org](https://www.5minutefinance.org/)
 
 ## Course Structure and Interaction
 

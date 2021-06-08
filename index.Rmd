@@ -223,6 +223,7 @@ Regarding the abstract:
 Below are a set of possible paper topics.  You do not have to choose one of these topics---in fact many of these are simply topics I am interested in but can't pursue for various reasons.  However, reading through these topics should at the very least give you a good idea of the types and breadth of topics you can pursue.
 
 -  [COVID-19](#COVID-19)
+-  [Treasuries Exemption from the SLR](#treasuries-exemption-from-the-slr) 
 -  [Capital Structure and Lending Policy at US Banks---FDIC Data Set](#banking-analyses)
 -  [Electricity Markets---Real Option Valuation of Power Plants, Renewable Power Integration](#electricity-markets)
 -  [High-Frequency Trading](#high-frequency-trading)
@@ -324,6 +325,11 @@ For example I use LibreOffice (http://www.libreoffice.org).
 
 - Use a breakpoint analysis to determine when market volatility increased in the beginning of the COVID crisis.  This is an estimate of when the market realized there was a problem.  You can also see if certain sectors of the economy reacted earlier using ETFs.
 
+## Treasuries Exemption from the SLR
+
+In response to COVID-19 the Fed made Treasury securities exempt from the supplementary leverage ratio (SLR) calculation.  This increased bank leverage ratios with the hope that they would increase lending.  The fed announced in March 2021 that the exemption would end at the end of Q1 2021.  An interesting analysis would be to determine whether the exemption affected small-business or other lending.  This analysis may be a bit difficult however.
+
+An easier, and still interesting, analysis would be to determine the exact date the Fed announced the end of the exemption.  There was a fair amount of disagreement about whether the Fed would end the exemption prior to the announcement.  Then run an event study to determine bank cumulative abnormal returns due to the announcement.  This will allow you to conclude something like, "continuing the exemption was worth $X billion to the banking industry."
 
 ## Banking Analyses
 

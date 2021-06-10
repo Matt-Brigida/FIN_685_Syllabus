@@ -146,9 +146,9 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
 
 Your course grade will consist of the (1) research paper discussions, and (2) a research paper.  Each is discussed below.
 
-## Research Paper Discussion
+## Research Paper Summaries
 
-To earn your research paper discussion posts you must 
+To earn your research paper summary posts you must:
 
 #. Submit your assigned research paper summary to the appropriate discussion board.
 #. Submit your thoughts on AI/ML in Accounting and Finance.

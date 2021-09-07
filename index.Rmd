@@ -1,10 +1,10 @@
 ---
 title:
-date: "August 25, 2019"
-output: 
-  rmdformats::html_clean:
-    highlight: kate
-##always_allow_html: true
+date: "August 29, 2021"
+output:
+   rmdformats::html_clean:
+     highlight: kate
+## always_allow_html: true
 ---
 
 ```{r knitr_init, echo=FALSE, cache=FALSE, message=FALSE, warning=FALSE}
@@ -130,17 +130,17 @@ From the [Course Catalog](https://webapp.sunypoly.edu/grad-catalog-2017-2018/cou
 -  Auditing
     + [Audit Partner Identifcation and Audit Quality](https://poseidon01.ssrn.com/delivery.php?ID=550083013021094031093127086098127109019053019081050000104122078004026096095115101007032035042036057108108083079117113003113014107011054000040117114104122117106027087001059076065065105005122087025065064025002108085024029025080011065126094120104073113127&EXT=pdf)
 	+ [Aobdia, Daniel, Lin, Chan-Jane, and Petacchi, Reining. Capital Market Consequences of Audit Partner Quality. Accounting Review. Nov2015, Vol. 90 Issue 6, 2143-2176.](https://scholar.google.com/scholar?cluster=938332190956306806&hl=en&as_sdt=0,33)
--  Artificial Intelligence and Machine Learning in Accounting and Finance (See the McKiney documents in BB)
+-  Artificial Intelligence and Machine Learning in Accounting and Finance
 <!-- use mckinsey docs -->
     + [McKinsey AI](https://www.mckinsey.com/featured-insights/artificial-intelligence)
     + [AI: The Next Digital Frontier?](https://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/MGI-Artificial-Intelligence-Discussion-paper.ashx)
     + [Notes from the AI Frontier: Insights from Hundreds of Use Cases](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20AI%20frontier%20Applications%20and%20value%20of%20deep%20learning/Notes-from-the-AI-frontier-Insights-from-hundreds-of-use-cases-Discussion-paper.ashx)
     + [Notes from the AI Frontier: Modeling the Impact on the World Economy](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx) 
     + [Notes from the AI Frontier:  Applying AI for Social Good](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Applying%20artificial%20intelligence%20for%20social%20good/MGI-Applying-AI-for-social-good-Discussion-paper-Dec-2018.ashx)
-    + Uses by big 4 accounting firms
-    + Loan Origination
-    + Mergers and Acquisitions/Corporate Strategy
-    + Valuation
+    <!-- + Uses by big 4 accounting firms -->
+    <!-- + Loan Origination -->
+    <!-- + Mergers and Acquisitions/Corporate Strategy -->
+    <!-- + Valuation -->
 
 ## Course Overview and Grade
 

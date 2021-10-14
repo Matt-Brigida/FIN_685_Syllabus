@@ -369,6 +369,8 @@ There are a couple very interesting aspects to cryptocurrencies and cryptocurren
 
 -  Did the introduction of CME Futures on Bitcoin affect trading in Bitcoin itself? This is a test of whether the futures contract can affect the underlying asset.  I have the top-of-book (millisecond time-stamped) built for Bitcoin Futures and the underlying index around the introduction of the futures contract.  You can use whatever empirical methods you are comfortable with to investigate whether trading in Bitcoin changed.
 
+-  Crypto (particularly Bitcoin) is often referred to as *digital gold*.  Has its introduction changed the relationship between inflation and actual gold?  Test for a changing correlation before and after the introduction of Bitcoin.  Note, you can use ETFs for gold (such as GLD).
+
 -  An analysis of the extent of asymmetric information in cryptocurrency markets and the effect on market viability.
 
 -  An analysis of [Libra](https://libra.org/en-US/wp-content/uploads/sites/23/2019/06/LibraWhitePaper_en_US.pdf)---how does it differ from other currencies and how is it similar? 

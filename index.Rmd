@@ -300,9 +300,9 @@ cat(tabl)
 <!-- - June 19: AI opinions due by the end of the week. -->
 <!-- - July 14: **The last day to submit your papers.** -->
 
-- February 20: Research paper summary and AI/ML opinion due.
-- February 20: Post your paper idea with a description of data you intent to use to the discussion board.
-- April 27: Research Paper due.
+- June 17: Research paper summary and AI/ML opinion due.
+- June 17: Post your paper idea with a description of data you intent to use to the discussion board.
+- July 24: Research Paper due.
 
 Note these are due dates.  I suggest you don't wait until the due date to submit your summaries/paper.  For example, your research paper summary can be done in a single afternoon, so it would make sense to get this done as soon as possible so you can move on to your paper.
 

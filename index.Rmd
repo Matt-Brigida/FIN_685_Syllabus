@@ -231,6 +231,7 @@ Below are a set of possible paper topics.  You do not have to choose one of thes
 -  [Energy Markets](#energy-markets)
 -  [Crypotocurrency Markets](#cryptocurrency-markets)
 -  [A case study outlining the effect of AI/ML in Accounting and Finance](#ai/ml-in-finance-and-accounting)
+-  [Recessions](#recessions)
 
 #### Caution Regarding Survey Articles, Read This!
 
@@ -406,6 +407,10 @@ See the EIA API for data.
 -  Survey the literature on the relationship between natural gas and crude oil prices.
 
 -  Survey accounting of oil reserves (explaining various definitions of 'proven').
+
+## Recessions
+
+- Do safe stocks (say healthcare and utilities) outperform risky stocks when market participants expect a recession.  You can use this to get the probability of a recession: https://financial-education.github.io/predicting_recessions_yield_curve/
 
 ## AI/ML in Finance and Accounting
 

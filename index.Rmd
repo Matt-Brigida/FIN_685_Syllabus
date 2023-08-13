@@ -209,7 +209,7 @@ Say you think the relationship between crude oil and natural gas prices changed 
 
 1.  Hypothesis:  The relationship between natural gas and crude oil significantly changed during and after COVID.
 2.  Data set:  Weekly returns for NYMEX WTI crude oil futures and Henry Hub natural gas futures.
-3.  [You could use this method](#How To Test For Changes In Slope In A Regression).  You don't have to use this method.  You could instead run two regressions (before and after) and test for significantly different slope coefficients.  You could also just test for different coefficients.  It is unacceptable, however, to chart the data and say /it looks different/.  
+3.  [You could use this method](####How To Test For Changes In Slope In A Regression).  You don't have to use this method.  You could instead run two regressions (before and after) and test for significantly different slope coefficients.  You could also just test for different coefficients.  It is unacceptable, however, to chart the data and say /it looks different/.  
 4.  You reject the null and find evidence that the relationship changed, or you do not reject the null and find no evidence for a change in the relationship.
 
 ### Research Paper Structure
@@ -245,7 +245,7 @@ Regarding the abstract:
 
 Below are a set of possible paper topics.  You do not have to choose one of these topics---in fact many of these are simply topics I am interested in but can't pursue for various reasons.  However, reading through these topics should at the very least give you a good idea of the types and breadth of topics you can pursue.
 
--  [COVID-19](#COVID-19)
+-  [COVID-19](##COVID-19)
 -  [Treasuries Exemption from the SLR](#treasuries-exemption-from-the-slr) 
 -  [Capital Structure and Lending Policy at US Banks---FDIC Data Set](#banking-analyses)
 -  [Electricity Markets---Real Option Valuation of Power Plants, Renewable Power Integration](#electricity-markets)

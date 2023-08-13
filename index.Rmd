@@ -176,7 +176,7 @@ But because such large investments are being made by the top Accounting/Finance 
 
 ## Research Paper
 
-You must also submit a research paper by the date indicated in the course schedule.
+You must also submit an original research paper by the date indicated in the course schedule.  This is the main assignment in the course, and you cannot pass this course without handing in a complete paper.
 
 ### The Point of Research
 
@@ -189,6 +189,28 @@ The point of research is to add something **new** to our knowledge of a topic.  
 3. Survey
 
 I highly recommend that you complete an empirical analysis.  It is the type of paper in which you can most easily make an original contribution to the literature.  I am also here to help you with statistical methods. You will almost surely receive a low grade if you attempt a Theoretical or Survey paper.
+
+### Required Components of your Empirical Paper
+
+In research we construct hypotheses and test these hypotheses using data and statistics.  Therefore, your paper must have:
+
+1.  A hypothesis (or hypotheses)
+2.  A data set to test the hypothesis
+3.  A statistical test of the hypothesis
+4.  Correct interpretation of the statistical test.
+
+**If your paper does not have these components you will not pass the course.**
+
+#### An Example
+
+For example:
+
+Say you think the relationship between crude oil and natural gas prices changed during COVID.  Then we have:
+
+1.  Hypothesis:  The relationship between natural gas and crude oil significantly changed during and after COVID.
+2.  Data set:  Weekly returns for NYMEX WTI crude oil futures and Henry Hub natural gas futures.
+3.  [You could use this method](#How To Test For Changes In Slope In A Regression).  You don't have to use this method.  You could instead run two regressions (before and after) and test for significantly different slope coefficients.  You could also just test for different coefficients.  It is unacceptable, however, to chart the data and say /it looks different/.  
+4.  You reject the null and find evidence that the relationship changed, or you do not reject the null and find no evidence for a change in the relationship.
 
 ### Research Paper Structure
 

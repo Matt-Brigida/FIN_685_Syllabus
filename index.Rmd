@@ -209,7 +209,7 @@ Say you think the relationship between crude oil and natural gas prices changed 
 
 1.  Hypothesis:  The relationship between natural gas and crude oil significantly changed during and after COVID.
 2.  Data set:  Weekly returns for NYMEX WTI crude oil futures and Henry Hub natural gas futures.
-3.  [You could use this method](####How To Test For Changes In Slope In A Regression).  You don't have to use this method.  You could instead run two regressions (before and after) and test for significantly different slope coefficients.  You could also just test for different coefficients.  It is unacceptable, however, to chart the data and say /it looks different/.  
+3.  [You could use this method](#testslope).  You don't have to use this method.  You could instead run two regressions (before and after) and test for significantly different slope coefficients.  You could also just test for different coefficients.  It is unacceptable, however, to chart the data and say /it looks different/.  
 4.  You reject the null and find evidence that the relationship changed, or you do not reject the null and find no evidence for a change in the relationship.
 
 ### Research Paper Structure
@@ -245,29 +245,29 @@ Regarding the abstract:
 
 Below are a set of possible paper topics.  You do not have to choose one of these topics---in fact many of these are simply topics I am interested in but can't pursue for various reasons.  However, reading through these topics should at the very least give you a good idea of the types and breadth of topics you can pursue.
 
--  [COVID-19](##COVID-19)
--  [Treasuries Exemption from the SLR](#treasuries-exemption-from-the-slr) 
--  [Capital Structure and Lending Policy at US Banks---FDIC Data Set](#banking-analyses)
--  [Electricity Markets---Real Option Valuation of Power Plants, Renewable Power Integration](#electricity-markets)
--  [High-Frequency Trading](#high-frequency-trading)
--  [Energy Markets](#energy-markets)
--  [Crypotocurrency Markets](#cryptocurrency-markets)
--  [A case study outlining the effect of AI/ML in Accounting and Finance](#ai/ml-in-finance-and-accounting)
--  [Recessions](#recessions)
+-  [COVID-19]
+-  [Treasuries Exemption from the SLR]
+-  [Capital Structure and Lending Policy at US Banks---FDIC Data Set]
+-  [Electricity Markets---Real Option Valuation of Power Plants, Renewable Power Integration]
+-  [High-Frequency Trading]
+-  [Energy Markets]
+-  [Crypotocurrency Markets]
+-  [A case study outlining the effect of AI/ML in Accounting and Finance]
+-  [Recessions]
 
 #### Do Not Run Regressions On Prices
 
 Often students will attempt to estimate a regression with price data. This leads to a [spurious regression](https://en.wikipedia.org/wiki/Spurious_relationship).  Always convert price data to returns and estimate the regression on returns. 
 
-#### How To Test For Changes In Slope In A Regression
+#### How To Test For Changes In Slope In A Regression {#testslope}
 
 Students often do this type of analysis, so here are some notes on it: https://financial-education.github.io/test_change_slope_linear_reg/
 
-#### Caution Regarding Survey Articles, Read This!
+#### Why I No Longer Allow Survey Articles
 
 You are much more likely to write a good research paper (and receive a higher score) if you write an empirical paper.  This is also fairly easy.  Gather some relevant data, summarize and visualize it, test a few hypotheses via appropriate regressions, and you have a paper.  I will also not take off many points if your statistical methods are not entirely correct.  I have also provided you with data.
 
-Often students will attempt a survey article, but what they hand in is a book report.  Since this is not research they receive a very low score.  Research should add something new and not simply summarize what is out there.  A proper survey article (see Maureen O'Hara's survey of Market Microstructure) will summarize a topic with an extraordinary amount of research and then point out gaps for additional research.  That is the topic is so active that few understand everything going on in it and don't know where to begin.  The survey provides this.  A survey article, arguably, is much harder than an empirical paper.  Only do a survey if you are interested in reading 40+ journal articles and learning everything about a topic.  Lastly, you must cite peer-reviewed research in a journal article. You should not cite newspapers, internet sources, or anything other than peer-reviewed research.
+In the past students would attempt a survey article, but what they handed in was a book report.  Since this is not research they receive a very low score.  Research should add something new and not simply summarize what is out there.  A proper survey article (see Maureen O'Hara's survey of Market Microstructure) will summarize a topic with an extraordinary amount of research and then point out gaps for additional research.  That is the topic is so active that few understand everything going on in it and don't know where to begin.  The survey provides this.  A survey article, arguably, is much harder than an empirical paper.  Only do a survey if you are interested in reading 40+ journal articles and learning everything about a topic.  Lastly, you must cite peer-reviewed research in a journal article. You should not cite newspapers, internet sources, or anything other than peer-reviewed research.
 
 All journals are not the same quality, and some are not reputable.  If you are going to do a survey article you should learn which journals are reputable---see the journals for the research papers I posted.  You will receive a low score if you cite bad journals.
 

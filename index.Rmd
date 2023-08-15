@@ -42,15 +42,15 @@ opts_knit$set(width=75)
 
 **Email**:  matthew.brigida@sunypoly.edu
 
-**Class Location**:  Online (Blackboard)
+**Class Location**:  Online (D2L)
 
 **Supplementary Material**: [Financial-Education Site](https://financial-education.github.io)
 
 ## Course Structure and Interaction
 
--  All interaction will be through Blackboard, with a majority taking place on the discussion boards and via BlackBoard Collaborate vidoes.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate.
+-  All interaction will be through D2L, with a majority taking place on the discussion boards and via BlackBoard Collaborate vidoes.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate.
 
--  The Blackboard discussion boards should generally be used for any course questions.  Only use email for questions that contain personal information.
+-  The D2L discussion boards should generally be used for any course questions.  Only use email for questions that contain personal information.
 
 -  There may be some useful videos at the following links: [Investments](https://www.youtube.com/playlist?list=PLRK1VeglPb4NO-D0HOn0QE9lQlBNR1vHK) and [Portfolio Theory](https://www.youtube.com/playlist?list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6).  I'll let you know if I post anything particularly useful here.
 
@@ -280,7 +280,7 @@ All journals are not the same quality, and some are not reputable.  If you are g
 
 ## Course Communication
 
-All communication will be through Blackboard and email. If you have question you are strongly encouraged to post it to a discussion forum instead of emailing me.  This way, other students can get the benefit of the question and answer.  It also saves me from answering the same question many times via email, and frees me up to answer more questions and generally provide more effective instruction for you.
+All communication will be through D2L and email. If you have question you are strongly encouraged to post it to a discussion forum instead of emailing me.  This way, other students can get the benefit of the question and answer.  It also saves me from answering the same question many times via email, and frees me up to answer more questions and generally provide more effective instruction for you.
 
 ## Grading
 

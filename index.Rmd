@@ -223,6 +223,10 @@ Empirical research papers have a common structure which everyone follows:
 
 Theoretical research would replace =Data and Methods= with a theoretical model.  For survey articles see Maureen O'Hara's survey of the Market Microstructure literature (also see the warning on survey articles below).
 
+### Charts and Figures
+
+Do not use any charts or figures created by anyone else.  **All charts and figures in your research paper should be original.**
+
 ### Paper Length
 
 Here are the submission guidelines from the *Journal of Finance* (the top journal in finance):

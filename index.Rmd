@@ -294,7 +294,8 @@ All communication will be through D2L and email. If you have question you are st
 tabl <- "
 | Item | Points |
 | ---- | ------ |
-| Paper Summaries | 40 |
+| Paper Summaries | 35 |
+| Statement on requirements of research paper | 5 |
 | Research Paper |  60 |
 | Total Points | 100 |
 "
@@ -340,9 +341,9 @@ cat(tabl)
 <!-- - February 19: Post your paper idea with a description of data you intend to use to the discussion board. -->
 <!-- - April 24: Research Paper due. -->
 
-- June 18: Research paper summary and AI/ML opinion due.
-- June 18: Post your paper idea with a description of data you intend to use to the discussion board.
-- July 23: Research Paper due.
+- September 22: Research paper summary and AI/ML opinion due.
+- September 22: Post your paper idea with a description of data you intend to use to the discussion board.
+- December 5: Research Paper due.
 
 Note these are due dates.  I suggest you don't wait until the due date to submit your summaries/paper.  For example, your research paper summary can be done in a single afternoon, so it would make sense to get this done as soon as possible so you can move on to your paper.
 

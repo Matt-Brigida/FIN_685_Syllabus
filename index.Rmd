@@ -201,6 +201,12 @@ In research we construct hypotheses and test these hypotheses using data and sta
 
 **If your paper does not have these components you will not pass the course.**
 
+### Your Data Drives Your Hypothesis
+
+Early researchers often make the mistake of coming up with hypotheses they can't test for lack of data.  For example, it would be interesting to test whether CFO risk tolerance affects firm performance, but we don't have CFO risk tolerance data so the idea is worthless.
+
+**So start with what data you have, or are confident you can get, and come up with hypotheses with this data.**
+
 #### An Example
 
 For example:

@@ -405,12 +405,13 @@ You may want to look at the paper, "Bank Capital and Lending Relationships"  (an
 
 ## High Frequency Trading (HFT)
 
+I have built orderbooks for various futures contracts from nanosecond/millisecond FIX/FAST data.  There is an example dataset under Content > Data > HFT in Brightspace.  To use this dataset you will have to be familiar with R or Python (even in the sample dataset there are too many rows for Excel).  The data are stored in an .rds file, and you have to be able to work with it.
+
+If you can't work with this data you can see if there are any datasets you can work with from the SEC here: https://www.sec.gov/marketstructure/research-and-analysis
+
 - Are there intra-day patterns in HFT data?
-
 - How do bid-ask spreads vary by firm size?
-
 - Statistical analyses to identify, for example, the impact of HFT on market efficiency.
-
 - Survey the effect of Regulation NMS on market structure and the rise of HFT.
 
 ## Cryptocurrency Markets

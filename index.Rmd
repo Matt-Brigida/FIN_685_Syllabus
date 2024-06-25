@@ -194,6 +194,7 @@ I highly recommend that you complete an empirical analysis.  It is the type of p
 
 In research we construct hypotheses and test these hypotheses using data and statistics.  Therefore, your paper must have:
 
+0.  A literature review
 1.  A hypothesis (or hypotheses)
 2.  A data set to test the hypothesis
 3.  A statistical test of the hypothesis
@@ -207,12 +208,28 @@ Early researchers often make the mistake of coming up with hypotheses they can't
 
 **So start with what data you have, or are confident you can get, and come up with hypotheses with this data.**
 
+### Note on a Literature Review
+
+A literature review establishes where your research fits into the body of existing research.  You should think of your research as incrementally moving our shared knowledge forward.  If you have a hypothesis that is related to, for example, the effectiveness of Bitcoin as a hedge against inflation, then you need to cite other published research on the topic.  This could be on Bitcoin, or research on other assets used as a hedge (e.g. gold).
+
+Any hypothesis you come up with will have related research.  If it doesn't your paper would likely be rejected from any journal for not making a contribution to the literature.
+
+General guidelines on literature reviews:
+
+1. You should cite peer-reviewed articles from reputable journals in finance, accounting, and economics. To see examples of such journals simply search 'list of finance academic journals' on Google. 
+2. I recommend using [Google Scholar](https://scholar.google.com/) to find related research.  If your example you could search 'Bitcoin inflation hedge' on Google Scholar.  The first result is a *Finance Research Letters* article you should cite.  You can then click the *Related Research* and *Cited by ...* links to find other articles. 
+3. You should cite at least 7 peer-reviewed articles.  The citation should have a brief summary of the results of the paper.
+4. You can cite from [arXiv](https://arxiv.org/) and [SSRN](https://www.ssrn.com/), but remember these are generally not peer-reviewed yet (some may be pre-prints of accepted peer-reviewed articles).
+5. You can cite a Wall Street Journal article for background, however this does not count as a peer-reviewed article.
+6. Do not cite random internet sites such as investopedia or blogs.
+
 #### An Example
 
 For example:
 
 Say you think the relationship between crude oil and natural gas prices changed during COVID.  Then we have:
 
+0.  Literature review.
 1.  Hypothesis:  The relationship between natural gas and crude oil significantly changed during and after COVID.
 2.  Data set:  Weekly returns for NYMEX WTI crude oil futures and Henry Hub natural gas futures.
 3.  [You could use this method](#testslope).  You don't have to use this method.  You could instead run two regressions (before and after) and test for significantly different slope coefficients.  You could also just test for different coefficients.  It is unacceptable, however, to chart the data and say /it looks different/.  

@@ -318,7 +318,7 @@ tabl <- "
 | Item | Points |
 | ---- | ------ |
 | Paper Summaries | 35 |
-| Statement on requirements of research paper | 5 |
+| Paper Idea Post | 5 |
 | Research Paper |  60 |
 | Total Points | 100 |
 "

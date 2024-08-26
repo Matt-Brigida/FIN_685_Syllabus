@@ -46,6 +46,15 @@ opts_knit$set(width=75)
 
 **Supplementary Material**: [Financial-Education Site](https://financial-education.github.io)
 
+
+```{r}
+## https://www.youtube.com/watch?v=EFwYLvit9Rs
+## <iframe width="560" height="315" src="https://www.youtube.com/embed/EFwYLvit9Rs?si=8X6ygO-ndPH5425l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+library(vembedr)
+embed_youtube("EFwYLvit9Rs")
+```
+
+
 ## Course Structure and Interaction
 
 -  All interaction will be through D2L, with a majority taking place on the discussion boards and via BlackBoard Collaborate vidoes.  Since we may not be able to meet at the same time, you'll want to check the `Recordings` section of Collaborate.

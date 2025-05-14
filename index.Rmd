@@ -185,7 +185,7 @@ But because such large investments are being made by the top Accounting/Finance 
 
 ## Research Paper
 
-You must also submit an original research paper by the date indicated in the course schedule.  This is the main assignment in the course, and you cannot pass this course without handing in a complete paper.
+You must also submit an original empirical research paper by the date indicated in the course schedule.  This is the main assignment in the course, and you cannot pass this course without handing in a complete paper.
 
 ### The Point of Research
 
@@ -193,11 +193,13 @@ The point of research is to add something **new** to our knowledge of a topic.  
 
 ### Paper Categories
 
+Broadly, there are three types of research paper:
+
 1. Empirical
 2. Purely Theoretical
 3. Survey
 
-I highly recommend that you complete an empirical analysis.  It is the type of paper in which you can most easily make an original contribution to the literature.  I am also here to help you with statistical methods. You will almost surely receive a low grade if you attempt a Theoretical or Survey paper.
+In this course you are required to complete an empirical analysis.  It is the type of paper in which you can most easily make an original contribution to the literature.  I am also here to help you with statistical methods. 
 
 ### Required Components of your Empirical Paper
 
@@ -276,6 +278,10 @@ And note this is a *maximum*.  You are free to hand in fewer pages.  What matter
 Regarding the abstract:
 
 > The first page of your paper should be a title page that includes the names of the authors, the title of the manuscript, and an abstract of not more than 100 words.
+
+### Important Note on AI Use
+
+LLMs such as ChaptGPT and Clause are increasingly good at writing sections of research papers (though for now they are unable to complete the empirical analysis).  You may use AI to identify a topic, and even to *help* you write sections of your paper. You may not copy what the AI writes and paste it into your paper however.  Every word of your paper should be your own.  If there is clear evidence you have copied and pasted from an LLM you will receive a 0 on your research paper.
 
 ###  Possible Paper Topic Areas
 

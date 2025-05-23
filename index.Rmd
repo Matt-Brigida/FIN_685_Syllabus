@@ -66,14 +66,11 @@ embed_youtube("EFwYLvit9Rs")
 
 ## Academic Honesty Policy
 
-Academic dishonesty will not be tolerated in this class. Cheating
-on quizzes, examinations, and other forms of dishonesty (e.g., plagiarism, collusion, and
-falsification of data) will be dealt with in a serious and formal manner. The penalty for academic
-dishonesty in this class will be course failure. That is, any student who is found to be cheating
-or engaged in other academically dishonest behavior will be failed for this course for this
-semester. Course withdrawals to avoid such a failure will not be permitted. As a student, you
-have a responsibility to become familiar with the Academic Honesty Policy found in the Student
-Rights, Regulations, and Procedures Handbook.
+Academic dishonesty will not be tolerated in this class. Cheating on quizzes, examinations, and other forms of dishonesty (e.g., plagiarism, collusion, and falsification of data) will be dealt with in a serious and formal manner. The penalty for academic dishonesty in this class will be course failure. That is, any student who is found to be cheating or engaged in other academically dishonest behavior will be failed for this course for this semester. Course withdrawals to avoid such a failure will not be permitted. As a student, you have a responsibility to become familiar with the Academic Honesty Policy found in the Student Rights, Regulations, and Procedures Handbook.
+
+## Course Policy Generative Artificial Intelligence (AI)
+
+You may use AI to help you come up with ideas for your research paper, or identify other papers to cite.  You may not use AI, however, to write any portion of your paper.  If any portion of your paper is word-for-word copied from AI output you will receive a 0.  Also all the charts accompanying your empirical analysis should be your own work.
 
 ## Online Office Hours
 
@@ -332,8 +329,8 @@ All communication will be through D2L and email. If you have question you are st
 tabl <- "
 | Item | Points |
 | ---- | ------ |
-| Paper Summaries | 35 |
-| Paper Idea Post | 5 |
+| Paper Summaries | 30 |
+| Paper Idea Post | 10 |
 | Research Paper |  60 |
 | Total Points | 100 |
 "
@@ -379,13 +376,13 @@ cat(tabl)
 <!-- - February 19: Post your paper idea with a description of data you intend to use to the discussion board. -->
 <!-- - April 24: Research Paper due. -->
 
-- September 13: Research paper summary and AI/ML opinion due.
-- September 20: Post your paper idea with a description of data you intend to use to the discussion board.
-- December 3: Research Paper due.
+<!-- - September 13: Research paper summary and AI/ML opinion due.-->
+<!-- - September 20: Post your paper idea with a description of data you intend to use to the discussion board.-->
+<!-- - December 3: Research Paper due.-->
 
-<!-- - June 19: Research paper summary and AI/ML opinion due. -->
-<!-- - June 21: Post your paper idea with a description of data you intend to use to the discussion board. -->
-<!-- - July 19: Research Paper due. -->
+- June 15: Research paper summary and AI/ML opinion due.
+- June 22: Post your paper idea with a description of data you intend to use to the discussion board.
+- July 20: Research Paper due.
 
 Note these are due dates.  I suggest you don't wait until the due date to submit your summaries/paper.  For example, your research paper summary can be done in a single afternoon, so it would make sense to get this done as soon as possible so you can move on to your paper.
 
